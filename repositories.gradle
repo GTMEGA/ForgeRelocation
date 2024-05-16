@@ -1,2 +1,6 @@
 repositories {
+    maven {
+        url = "https://mvn.falsepattern.com/gtmega_releases/"
+        name = "mega"
+    }
 }
