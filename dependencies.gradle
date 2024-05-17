@@ -1,3 +1,3 @@
 dependencies {
-    api("mega:mrtjpcore-mc1.7.10:1.1.7-mega:dev")
+    api("mega:mrtjpcore-mc1.7.10:1.2.0-mega:dev")
 }
